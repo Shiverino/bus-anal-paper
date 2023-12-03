@@ -8,7 +8,9 @@
 
 \setlength{\parskip}{0pt} % Pas deze waarde aan zoals gewenst
 % Specify the BibLaTeX file(s) that contain(s) your bibliography
-\addbibresource{paper.bib}
+\usepackage[backend=biber,style=apa]{biblatex}
+\DeclareLanguageMapping{dutch}{dutch-apa}
+\addbibresource{sources.bib}
 
 % Course information
 \studyprogramme{Paper Hoe combineer je PRINCE2 of PMBOK met agile\linebreak werken? }
@@ -234,8 +236,8 @@ Ze vertelden dat beide methodologieën waakzaamheid nodig hebben, ‘common sens
 Om het interview af te sluiten wilde we ook nog weten welke tools er worden gebruikt binnen Inetum-realdolmen om PRINCE2/PMBOK en Agile met elkaar te integreren. 
 \newline
 
-Hierover zeiden ze dat Lencioni wel heel belangrijk is. Het is in hun ervaring zeer zinvol om voor mensen die in het agile gestart zijn en daarin gegroeid zijn om die business sense te behouden. Wat ze soms zien gebeuren is, dat sommige mensen heel vrijblijvend zijn en dat ze echt op basis van heel weinig requirements aan de slag gaan. Ze werken dan via het principe: “Hoe groter de chaos hoe beter want dan zijn we agile bezig”, terwijl ze vinden dat het toch in ieders belang is om dingen goed af te stemmen, zoals bijvoorbeeld ‘the definition of done’ of de acceptatiecriteria. Ze vinden het menselijk aspect en het business aspect even belangrijk blijven. 
-
+Hierover zeiden ze dat Lencioni wel heel belangrijk is. Het is in hun ervaring zeer zinvol om voor mensen die in het agile gestart zijn en daarin gegroeid zijn om die business sense te behouden. Wat ze soms zien gebeuren is, dat sommige mensen heel vrijblijvend zijn en dat ze echt op basis van heel weinig requirements aan de slag gaan. Ze werken dan via het principe: “Hoe groter de chaos hoe beter want dan zijn we agile bezig”, terwijl ze vinden dat het toch in ieders belang is om dingen goed af te stemmen, zoals bijvoorbeeld ‘the definition of done’ of de acceptatiecriteria. Ze vinden het menselijk aspect en het business aspect even belangrijk blijven.
+\autocite{Mousaei2018}
 
 \section{Conclusie}%
 \label{sec:conclusie}
@@ -244,8 +246,6 @@ Hierover zeiden ze dat Lencioni wel heel belangrijk is. Het is in hun ervaring z
 \section{Reflectie}
 \label{sec:reflectie}
 
-
-
-%\printbibliography[heading=bibintoc]
+\printbibliography[heading=bibintoc]
 
 \end{document}

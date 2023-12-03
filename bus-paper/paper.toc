@@ -6,12 +6,12 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Huidig Project Management Framework}{4}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Mogelijkheden van een Hybride PRINCE2/PMBOK en Agile Aanpak}{4}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Integratie PRINCE2 Agile - Balanceren tussen Productgerichtheid en Flexibiliteit}{4}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Uitdagingen bij Integratie van PRINCE2 en Agile in de Organisatie}{4}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}Uitdagingen Agile met PRINCE2 - Budget en Timing}{4}{subsubsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.6}Tools voor Integratie PRINCE2/PMBOK en Agile}{4}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.4}Uitdagingen bij Integratie van PRINCE2 en Agile in de Organisatie}{5}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Uitdagingen Agile met PRINCE2 - Budget en Timing}{5}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Tools voor Integratie PRINCE2/PMBOK en Agile}{5}{subsubsection.3.1.6}%
 \contentsline {subsection}{\numberline {3.2}Cegeka}{5}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Inetum-realdolmen}{5}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Conclusie}{7}{section.4}%
+\contentsline {section}{\numberline {4}Conclusie}{8}{section.4}%
 \contentsline {section}{\numberline {5}Reflectie}{8}{section.5}%
 \contentsline {section}{Referenties}{8}{section.5}%
 \contentsfinish 

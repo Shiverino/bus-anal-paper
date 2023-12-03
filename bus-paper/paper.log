@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.13)  3 DEC 2023 16:49
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.13)  3 DEC 2023 18:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1405,34 +1405,34 @@ File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <HOGENT_Logo_Pos_rgb.png>
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 157--160
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 
  []
 
 File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <HOGENT_Logo_Pos_rgb.png>
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+Underfull \hbox (badness 10000) in paragraph at lines 173--176
 
  []
 
@@ -1508,14 +1508,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
  []
 
-
+File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<HOGENT_Logo_Pos_rgb.png>
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
-File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
-<HOGENT_Logo_Pos_rgb.png>
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
@@ -1531,27 +1531,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--238
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+
+ []
+
+
 AED: lastpage setting LastPage
 File: HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <HOGENT_Logo_Pos_rgb.png>
 [6] (paper.aux)
-
-Package rerunfilecheck Warning: File `paper.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `paper.out':
-(rerunfilecheck)             Before: C7C741EC59506B31DFF916C8C1BDC179;3231
-(rerunfilecheck)             After:  EC75A9D03B72E089759A0CEC7D957820;3132.
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: EC75A9D03B72E089759A0CEC7D957820;3132.
 Package logreq Info: Writing requests to 'paper.run.xml'.
 \openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27558 strings out of 411476
- 517560 string characters out of 5818380
+ 27557 strings out of 411476
+ 517543 string characters out of 5818380
  1865001 words of memory out of 5000000
- 47446 multiletter control sequences out of 15000+600000
+ 47445 multiletter control sequences out of 15000+600000
  514704 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,13n,128p,1196b,5465s stack positions out of 10000i,1000n,20000p,200000b,200000s

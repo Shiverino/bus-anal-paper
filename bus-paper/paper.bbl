@@ -19,6 +19,31 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Demianchuk2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5eae862343d21fa3bfaf83546011d2ad}{%
+           family={Demianchuk},
+           familyi={D\bibinitperiod},
+           given={Liliia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{fullhash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{bibnamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authorbibnamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authornamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authorfullhash}{5eae862343d21fa3bfaf83546011d2ad}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementing the {PRINCE2} project management method in an existing project environment}
+      \field{year}{2020}
+    \endentry
     \entry{Fowler2020}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
@@ -124,9 +149,92 @@
       \field{journaltitle}{Proceedings of the 19th International Conference on Smart Business Technologies}
       \field{title}{Hybrid Approach to Business Software Development in Terms of Current Needs and Requirements}
       \field{year}{2022}
+    \endentry
+    \entry{Schwalbe2012ManagingAP}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531850ee62c9cc3dff8fa887ab513286}{%
+           family={Schwalbe},
+           familyi={S\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{fullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{bibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorbibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authornamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorfullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Managing a Project Using an Agile Approach and the PMBOK{®} Guide}
+      \field{year}{2012}
+    \endentry
+    \entry{Tomnek2015ProjectRM}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=139cdeb4717c7d43a3f54b3d37b9e76e}{%
+           family={Tománek},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef0e061dca928f1132d932aea759a288}{%
+           family={Juricek},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima Eric},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{fullhash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{bibnamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authorbibnamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authornamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authorfullhash}{8f577280257d70e5ee9a13b2e8092140}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{Project Risk Management Model Based on PRINCE2 and Scrum Frameworks}
+      \field{volume}{abs/1502.03595}
+      \field{year}{2015}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Demianchuk2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5eae862343d21fa3bfaf83546011d2ad}{%
+           family={Demianchuk},
+           familyi={D\bibinitperiod},
+           given={Liliia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{fullhash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{bibnamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authorbibnamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authornamehash}{5eae862343d21fa3bfaf83546011d2ad}
+      \strng{authorfullhash}{5eae862343d21fa3bfaf83546011d2ad}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementing the {PRINCE2} project management method in an existing project environment}
+      \field{year}{2020}
+    \endentry
     \entry{Fowler2020}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
@@ -232,6 +340,64 @@
       \field{journaltitle}{Proceedings of the 19th International Conference on Smart Business Technologies}
       \field{title}{Hybrid Approach to Business Software Development in Terms of Current Needs and Requirements}
       \field{year}{2022}
+    \endentry
+    \entry{Schwalbe2012ManagingAP}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531850ee62c9cc3dff8fa887ab513286}{%
+           family={Schwalbe},
+           familyi={S\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{fullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{bibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorbibnamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authornamehash}{531850ee62c9cc3dff8fa887ab513286}
+      \strng{authorfullhash}{531850ee62c9cc3dff8fa887ab513286}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Managing a Project Using an Agile Approach and the PMBOK{®} Guide}
+      \field{year}{2012}
+    \endentry
+    \entry{Tomnek2015ProjectRM}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=139cdeb4717c7d43a3f54b3d37b9e76e}{%
+           family={Tománek},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef0e061dca928f1132d932aea759a288}{%
+           family={Juricek},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima Eric},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{fullhash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{bibnamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authorbibnamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authornamehash}{8f577280257d70e5ee9a13b2e8092140}
+      \strng{authorfullhash}{8f577280257d70e5ee9a13b2e8092140}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{Project Risk Management Model Based on PRINCE2 and Scrum Frameworks}
+      \field{volume}{abs/1502.03595}
+      \field{year}{2015}
     \endentry
   \enddatalist
 \endrefsection

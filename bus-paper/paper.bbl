@@ -19,6 +19,37 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Fowler2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The New Methodology}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.martinfowler.com/articles/.
+      \endverb
+      \verb{url}
+      \verb https://www.martinfowler.com/articles/.
+      \endverb
+    \endentry
     \entry{Mousaei2018}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=697f0d31c1b8c77df30edc2d59e5327c}{%
@@ -58,8 +89,75 @@
       \field{volume}{9}
       \field{year}{2018}
     \endentry
+    \entry{PoniszewskaMaranda2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dbf1d5d1152667d2f32cc2a5e197e03b}{%
+           family={Poniszewska-Marańda},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Aneta},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7180b2c95afeb4a7118ddb3677367bcf}{%
+           family={Tyran},
+           familyi={T\bibinitperiod},
+           given={Martyna},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {SCITEPRESS - Science}%
+        {Technology Publications}%
+      }
+      \strng{namehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{fullhash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{bibnamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authorbibnamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authornamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authorfullhash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 19th International Conference on Smart Business Technologies}
+      \field{title}{Hybrid Approach to Business Software Development in Terms of Current Needs and Requirements}
+      \field{year}{2022}
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Fowler2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The New Methodology}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.martinfowler.com/articles/.
+      \endverb
+      \verb{url}
+      \verb https://www.martinfowler.com/articles/.
+      \endverb
+    \endentry
     \entry{Mousaei2018}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=697f0d31c1b8c77df30edc2d59e5327c}{%
@@ -98,6 +196,42 @@
       \field{title}{A New Project Risk Management Model based on Scrum Framework and Prince2 Methodology}
       \field{volume}{9}
       \field{year}{2018}
+    \endentry
+    \entry{PoniszewskaMaranda2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dbf1d5d1152667d2f32cc2a5e197e03b}{%
+           family={Poniszewska-Marańda},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Aneta},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7180b2c95afeb4a7118ddb3677367bcf}{%
+           family={Tyran},
+           familyi={T\bibinitperiod},
+           given={Martyna},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {SCITEPRESS - Science}%
+        {Technology Publications}%
+      }
+      \strng{namehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{fullhash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{bibnamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authorbibnamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authornamehash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \strng{authorfullhash}{2913db0cf7d1e5f2f2c39b9e02896018}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 19th International Conference on Smart Business Technologies}
+      \field{title}{Hybrid Approach to Business Software Development in Terms of Current Needs and Requirements}
+      \field{year}{2022}
     \endentry
   \enddatalist
 \endrefsection
